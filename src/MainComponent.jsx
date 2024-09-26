@@ -38,7 +38,9 @@ function MainComponent() {
         ></div>
         <div className="relative z-10 text-center">
             <h2 className="text-5xl md:text-7xl font-bold mb-8">だから今度は、<br/>俺が行く</h2>
-            <button className="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full text-xl transition duration-300">参加する</button>
+            <a href="https://www.instagram.com/kabaddian.jp/">
+              <button className="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full text-xl transition duration-300">参加する</button>
+            </a>
           </div>
         </section>
   
